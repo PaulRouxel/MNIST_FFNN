@@ -50,4 +50,6 @@ $$
 
 Please unzip both .zip to get the corresponding folders.
 
+S/O to my professor Jae Yun JUN KIM.
+
 PS: I changed from SSE to Cross Entropy Loss, I didn't changed the backpropagation yet.
