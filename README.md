@@ -1,4 +1,4 @@
-# MNIST digits classification using a FFNN
+# MNIST digits classification using a FFNN from scratch
 
 Using FFNN with: 1 input layer, 1 hidden layer of 20 neurons, 1 output layer of 10 neurons. The data is the MNIST dataset in txt files.
 
